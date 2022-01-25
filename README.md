@@ -1,2 +1,7 @@
 # zero_day
-This file is mandatory in all School projects
+
+## hello world 
+
+To be continued...
+
+
